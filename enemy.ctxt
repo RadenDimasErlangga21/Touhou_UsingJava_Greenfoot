@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=enemy
+comment0.text=\r\n\ code\ boss\r\n\ \r\n\ @author\ (raden\ dimas\ erlangga)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ pergerakan()
+comment3.params=
+comment3.target=void\ removeEnemy()
+numComments=4
